@@ -1,0 +1,19 @@
+.background    { background-image: url("https://c1.staticflickr.com/6/5112/7061563019_6b055c761c_b.jpg");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/purple-marble-texture-background.jpg");}
+.wall          { background-image: url("https://cdn.pixabay.com/photo/2016/01/23/10/29/texture-1157194_960_720.jpg");}
+.floater       { background: : grey; }
+.goal          { background-image: url("https://c1.staticflickr.com/3/2627/3914436040_74c64acb9d_b.jpg");
+                background-size:cover; }
+.coin          { background: white; }
+.actor  { position: absolute;  }
+.player { background: rgb(64, 64, 64); }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
